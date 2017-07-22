@@ -1,0 +1,15 @@
+{
+  "mediafiles": [
+     {
+       "fileName": "sommat",
+        "base64data": "longassstring"
+     }, {
+       "fileName": "sommat",
+       "base64data": "longassstring"
+     }, {
+       "fileName": "sommat",
+       "base64data": "longassstring"
+     }
+   ],
+   "mediaFormat": "image/png"
+}

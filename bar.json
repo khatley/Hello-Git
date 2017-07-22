@@ -2,14 +2,16 @@
   "mediafiles": [
      {
        "fileName": "sommat",
-        "base64data": "longassstring"
+        "base64data": "longassstring",
+	"mediaFormat": "format"
      }, {
        "fileName": "sommat",
-       "base64data": "longassstring"
+       "base64data": "longassstring",
+       "mediafFormat": "format"
      }, {
        "fileName": "sommat",
-       "base64data": "longassstring"
+       "base64data": "longassstring",
+       "mediaFormat": "format"
      }
-   ],
-   "mediaFormat": "image/png"
+   ]
 }
